@@ -4,5 +4,5 @@
 <h2>1. pip install geopy </h2>
 <h2>2. pip install timezonefinder </h2>
 <h2>The interface of the app will look like this</h2>
-<img src="https://user-images.githubusercontent.com/71707454/236126796-85157bc3-d740-4ed7-92a0-814ce41c81b2.png" width="500px" height="200px">
+<img src="https://user-images.githubusercontent.com/71707454/236126796-85157bc3-d740-4ed7-92a0-814ce41c81b2.png" width="600px" height="400px">
 
